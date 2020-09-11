@@ -1,4 +1,4 @@
-# ghost-env.list
+# ghost env.list
 
 - A small file with env configuration variables used to pass into ghost when started as a docker file. 
 - place this file in: /srv/ghost/
